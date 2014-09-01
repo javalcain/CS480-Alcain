@@ -1,4 +1,4 @@
 CS480-Alcain
 ============
 
-Graphics repository
+Jamel Alcain Graphics repository
